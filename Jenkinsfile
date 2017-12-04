@@ -1,4 +1,4 @@
-pipe
+node
 {
 stage 'build'
 echo 'buiding now...'
