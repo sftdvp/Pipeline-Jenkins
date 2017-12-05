@@ -4,7 +4,7 @@ properties([[$class: 'GithubProjectProperty',
            displayName: '',
            projectUrlStr: 'https://github.com/sftdvp/Pipeline-Jenkins.git/'], 
            pipelineTriggers([githubPush()])])
-/// adededkonvijnajv
+/// adededkonvijn
 
 node
 {
