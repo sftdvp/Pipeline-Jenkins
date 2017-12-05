@@ -9,5 +9,5 @@ echo 'build now'
 stage 'deploy'
 echo 'MARVEL'
 stage 'test n deploy'
- echo 'updated'
+echo 'updated'
 }
