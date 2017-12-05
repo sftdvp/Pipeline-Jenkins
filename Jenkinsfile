@@ -1,4 +1,4 @@
-///Commenti
+///Comment
 
 properties([[$class: 'GithubProjectProperty', 
            displayName: '',
