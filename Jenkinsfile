@@ -8,6 +8,7 @@ properties([[$class: 'GithubProjectProperty',
 
 node
 {
+            git url: 'https://github.com/sftdvp/Pipeline-Jenkins.git', branch: 'master'
 stage 'build'
 echo 'buiding now ......'
 echo 'line'
