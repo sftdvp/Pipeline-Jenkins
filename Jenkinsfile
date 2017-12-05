@@ -1,5 +1,4 @@
 
-
 node
 {
 stage 'integrate'
