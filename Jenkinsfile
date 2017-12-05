@@ -2,7 +2,7 @@ node
 {
 stage 'build'
 echo 'buiding now...'
-echo 'new line'
+echo 'line'
 stage 'test'
 echo 'build now'
 stage 'deploy'
