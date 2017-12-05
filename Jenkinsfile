@@ -1,10 +1,12 @@
 
-
-node {
-stage 'integrate'
-echo '123'
+node
+{
+stage 'build'
+echo 'buiding now...'
+echo 'line'
 stage 'test'
-echo '456'
+echo 'build now'
 stage 'deploy'
-echo '789'
+echo 'MARVEL'
+>>>>>>> f3d72a23bf1c85a1a16fb01af792bd59d1a17c6c
 }
