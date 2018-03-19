@@ -10,6 +10,8 @@ stage 'deploy'
 echo 'MARVEL'
 stage 'test n deploy'
 echo 'updated'
+stage 'deploy only'
+echo 'deployed sucess'
 }
 
 
