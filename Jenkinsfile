@@ -10,4 +10,6 @@ stage 'deploy'
 echo 'MARVEL'
 stage 'test n deploy'
  echo 'updated'
+stage '12345'
+ echo '5678'
 }
